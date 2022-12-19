@@ -2,7 +2,7 @@
 
 /**
 * prompt_user - prints $ to let user know the program is
-* ready to take their input
+* ready to take its input
 * prints the prompt if the shell is in interactive mode
 * Return: no return
 */

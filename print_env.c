@@ -2,7 +2,6 @@
 
 /**
 * print_env - prints the environment string to stdout
-*
 * Return: 0
 */
 void print_env(void)

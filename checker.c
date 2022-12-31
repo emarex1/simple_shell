@@ -14,5 +14,5 @@ int checker(char **cmd, char *buf)
 		execution(cmd[0], cmd);
 		return (1);
 	}
-	return (0);
+	return(0);
 }
